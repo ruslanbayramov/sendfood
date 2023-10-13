@@ -1,4 +1,4 @@
-# sendfood
+# Sendfood Project
 Project Sendfood
 
 Hello! I'm Ruslan Bayramov, a computer engineering student at Azerbaijan Technical University, with a focus on front-end web development. I am constantly honing my skills in the front-end realm, driven by my passion for technology and the desire to create innovative solutions.
